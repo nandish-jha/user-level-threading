@@ -1,0 +1,45 @@
+NANDISH JHA NAJ474 11282001
+
+
+
+commit 40c14a7efa91c6a837d386248d3cff20dab84c1a
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 6 19:46:18 2025 -0600
+
+    Added necessary code to the uthread.c file.
+
+commit ac652d3c3f0e66f71aee4579919a36518b217339
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 6 19:08:34 2025 -0600
+
+    Modified the makefile to properly initialize the mem space for the threads part using the linker file. Added ASM code to the uthread_switch.S. Added names to the remaining files.
+
+commit ee9393cea987647c3605bfd70a9378bb9d3e5e24
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 6 17:59:34 2025 -0600
+
+    Added xv6 dir again for a fresh start.
+
+commit c7389cbfc8af933e29bc0779aee327da86b9795f
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 6 17:53:16 2025 -0600
+
+    Starting fresh again.
+
+commit 0dfd626910bdc222939592d47902655f6306fff8
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 6 16:09:36 2025 -0600
+
+    Minor changes, makefile needed to be corrected for ULIB from LIB.
+
+commit 1f066463b0b99b1479b1b571be6459549cfe15a0
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 6 14:59:29 2025 -0600
+
+    Added code in the thread_switch.S and some more in the thread_create() function in the uthread.c.
+
+commit 62bc2d02d153559b4c69458586a653adebf73341
+Author: naj474 <naj474@usask.ca>
+Date:   Mon Oct 6 11:33:09 2025 -0600
+
+    Adding xv6 directory for Lab 4 stuff.
